@@ -1,4 +1,4 @@
-const signPageUrl = "https://www.hifiti.com/sg_sign.htm";
+const signPageUrl = "https://hifini.net/sg_sign.htm";
 const responseSuccessCode = "0";
 
 async function checkIn(account) {
